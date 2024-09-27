@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dikorin/inter-comments-section/static/css/main.7fb1666c.css",
+    "main.js": "/Dikorin/inter-comments-section/static/js/main.5c5995d0.js",
+    "index.html": "/Dikorin/inter-comments-section/index.html",
+    "static/media/icon-edit.svg": "/Dikorin/inter-comments-section/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
+    "static/media/icon-reply.svg": "/Dikorin/inter-comments-section/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-delete.svg": "/Dikorin/inter-comments-section/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.7fb1666c.css.map": "/Dikorin/inter-comments-section/static/css/main.7fb1666c.css.map",
+    "main.5c5995d0.js.map": "/Dikorin/inter-comments-section/static/js/main.5c5995d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb1666c.css",
+    "static/js/main.5c5995d0.js"
+  ]
+}
