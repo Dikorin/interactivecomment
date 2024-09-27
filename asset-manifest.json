@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Dikorin/interactivecomment/static/css/main.7fb1666c.css",
-    "main.js": "/Dikorin/interactivecomment/static/js/main.810327db.js",
-    "index.html": "/Dikorin/interactivecomment/index.html",
-    "static/media/icon-edit.svg": "/Dikorin/interactivecomment/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
-    "static/media/icon-reply.svg": "/Dikorin/interactivecomment/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
-    "static/media/icon-delete.svg": "/Dikorin/interactivecomment/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
-    "main.7fb1666c.css.map": "/Dikorin/interactivecomment/static/css/main.7fb1666c.css.map",
-    "main.810327db.js.map": "/Dikorin/interactivecomment/static/js/main.810327db.js.map"
+    "main.css": "/interactivecomment/static/css/main.7fb1666c.css",
+    "main.js": "/interactivecomment/static/js/main.f06f44c7.js",
+    "index.html": "/interactivecomment/index.html",
+    "static/media/icon-edit.svg": "/interactivecomment/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
+    "static/media/icon-reply.svg": "/interactivecomment/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-delete.svg": "/interactivecomment/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.7fb1666c.css.map": "/interactivecomment/static/css/main.7fb1666c.css.map",
+    "main.f06f44c7.js.map": "/interactivecomment/static/js/main.f06f44c7.js.map"
   },
   "entrypoints": [
     "static/css/main.7fb1666c.css",
-    "static/js/main.810327db.js"
+    "static/js/main.f06f44c7.js"
   ]
 }
