@@ -1,8 +1,7 @@
 {
-  "homepage": "https://jonathanmeij.github.io/comments-section",
   "name": "comments-section",
   "version": "0.1.0",
-  "homepage": "https://github.com/Dikorin/inter-comments-section",
+  "homepage": "https://github.com/Dikorin/interactivecomment",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
